@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saif2406
-- 👀 I’m interested in AWS cloud computing
-- 🌱 I’m currently learning AWS solution Architect
+- 👀 Working in AWS infra 
+- 🌱 I’m currently learning Devops
 - 💞️ I’m looking to collaborate on no-one
 - 📫 contact me on 7021849770
 
